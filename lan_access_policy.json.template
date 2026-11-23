@@ -1,0 +1,13 @@
+{
+  "lan_enabled": false,
+  "approved_network_name": null,
+  "approved_interface_alias": null,
+  "approved_server_ip": null,
+  "approved_subnet": null,
+  "approved_remote_addresses": [],
+  "approved_profile": null,
+  "approved_program": null,
+  "rule_name": "DSS-PIK - LAN Access",
+  "local_port": 8000,
+  "updated_at": "2026-11-22 11:57:21"
+}
